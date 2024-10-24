@@ -20,9 +20,11 @@ function Header() {
           Pricing
         </a>
       </div>
-      <button className="hidden md:block w-150 h-12 rounded-50 bg-light-gray text-black">
-        Sign In
-      </button>
+      <a href="#">
+        <button className="hidden md:block w-150 h-12 rounded-50 bg-light-gray text-black">
+          Sign In
+        </button>
+      </a>
     </nav>
   );
 }
