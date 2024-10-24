@@ -14,7 +14,7 @@ function Benefits() {
         <h1 className="text-4xl text-black font-bold mb-5">
           For Your Business
         </h1>
-        <h3 className="text-dark-gray text-center w-386 leading-32">
+        <h3 className="text-dark-gray text-center w-386 leading-32 px-4 md:px-0">
           We did research what your company needs and here we are providing all
           of them just for you
         </h3>
